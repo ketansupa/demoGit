@@ -1,0 +1,5 @@
+it is used to store memory mamagment
+
+
+
+it is used with sraric block , static method and nested loop
